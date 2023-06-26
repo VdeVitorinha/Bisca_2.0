@@ -1,4 +1,4 @@
-package Teste;
+package teste;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -6,9 +6,9 @@ import static org.junit.Assert.assertNotNull;
 import org.junit.Before;
 import org.junit.Test;
 
-import Entidades.Baralho;
-import Entidades.Carta;
-import Entidades.Jogador;
+import entidades.Baralho;
+import entidades.Carta;
+import entidades.Jogador;
 
 public class JogadorTest {
     private Jogador jogador;
