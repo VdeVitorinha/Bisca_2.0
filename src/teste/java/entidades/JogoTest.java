@@ -1,11 +1,11 @@
-package Teste;
+package teste;
 
 import static org.junit.Assert.assertNotNull;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import Entidades.Jogo;
+import entidades.Jogo;
 
 public class JogoTest {
     private Jogo jogo;
