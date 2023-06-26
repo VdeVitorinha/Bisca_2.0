@@ -1,4 +1,4 @@
-package Entidades;
+package entidades;
 
 public enum Valor {
     DOIS(0),
