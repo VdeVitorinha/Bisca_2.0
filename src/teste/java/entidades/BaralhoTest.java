@@ -8,8 +8,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import Entidades.Baralho;
-import Entidades.Carta;
+import entidades.Baralho;
+import entidades.Carta;
 
 public class BaralhoTest {
     private Baralho baralho;
