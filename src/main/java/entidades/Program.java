@@ -1,6 +1,4 @@
-package Aplicação;
-
-import Entidades.Jogo;
+package entidades;
 
 public class Program {
     public static void main(String[] args) {
