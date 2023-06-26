@@ -1,12 +1,12 @@
-package Teste;
+package teste;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import Entidades.Carta;
-import Entidades.Naipe;
-import Entidades.Valor;
+import entidades.Carta;
+import entidades.Naipe;
+import entidades.Valor;
 
 public class CartaTest {
     
