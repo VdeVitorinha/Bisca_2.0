@@ -1,0 +1,12 @@
+SCRIPT_AREA_BORDER=\#D8D8D8 | null | null | null | null | null
+commentBorder=\#C7DD0C | null | null | false | null | null
+commentText=\#C7DD0C | null | null | false | null | null
+eclipse.preferences.version=1
+g=directory before attempting this command again.\u00010MSB3073\: The command "{0}" exited with code {1}.\u0001sMSB3075\: The command "{0}" exited with code {1}. Please verify that you have sufficient rights to run this command.\u0001'The command "{0}" exited with code {1}.\u0001GMSB3076\: The regular expression "{0}" that was supplied is invalid. {1}\u0001+The working directory "{0}" does not exist.\u00014MSB3072\: The "Exec" task needs a command to execute.\u0001MSB3954\: Failed to compute hash for file '{0}' because it does not exist or is inaccessible.\u0001iMSB3953\: Unrecognized hash algorithm name '{0}'. Allowed algorithms are 'SHA256', 'SHA384', and 'SHA512'.\u0001TMSB3951\: Unrecognized hash encoding '{0}'. Allowed encodings are 'hex' and 'base64'.\u0001\f
+jsp_content=\#D8D8D8 | null | null | null | null | null
+overriddenByCSS=,SCRIPT_AREA_BORDER,commentBorder,commentText,jsp_content,tagAttributeEquals,tagAttributeName,tagAttributeValue,tagBorder,tagName,
+tagAttributeEquals=\#D8D8D8 | null | null | null | null | null
+tagAttributeName=\#8DCBE2 | null | null | null | null | null
+tagAttributeValue=\#FFC600 | null | null | null | null | null
+tagBorder=\#FFFFFF | null | null | null | null | null
+tagName=\#03a8d8 | null | true | false | false | false

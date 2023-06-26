@@ -1,0 +1,24 @@
+ATMARK_RULE=\#FFFFFF | null | null | null | null | null
+ATTRIBUTE_DELIM=\#FFFFFF | null | null | null | null | null
+ATTRIBUTE_NAME=\#FFFFFF | null | null | null | null | null
+ATTRIBUTE_OPERATOR=\#FFFFFF | null | null | null | null | null
+ATTRIBUTE_VALUE=\#FFFFFF | null | null | null | null | null
+CLASS=\#FFFFFF | null | null | null | null | null
+COLON=\#D8D8D8 | null | null | null | null | null
+COMBINATOR=\#FFFFFF | null | null | null | null | null
+COMMENT=\#C7DD0C | null | null | false | null | null
+CURLY_BRACE=\#D8D8D8 | null | null | null | null | null
+ID=\#FFFFFF | null | null | null | null | null
+MEDIA=\#8DCBE2 | null | null | null | null | null
+NORMAL=\#D8D8D8 | null | null | null | null | null
+PROPERTY_NAME=\#BED6FF | null | null | null | null | null
+PROPERTY_VALUE=\#FFC600 | null | null | null | null | null
+PSEUDO=\#FFFFFF | null | null | null | null | null
+SELECTOR=\#FFFFFF | null | null | null | null | null
+SEMI_COLON=\#D8D8D8 | null | null | null | null | null
+STRING=\#FFC600 | null | null | null | null | null
+UNIVERSAL=\#FFFFFF | null | null | null | null | null
+URI=\#FFC600 | null | null | null | null | null
+eclipse.preferences.version=1
+ould=not find resources for culture '{0}'. Using culture '{1}' instead.\u00010MSB3159\: Xml Validation error in file '{0}'\: {1}\u00012MSB3160\: Xml Validation warning in file '{0}'\: {1}\u0001BMSB3177\: Reference '{0}' does not allow partially trusted callers.\u0001;MSB3178\: Assembly '{0}' is incorrectly specified as a file.\u00013MSB3179\: Problem isolating COM reference '{0}'\: {1}\u0001AMSB3111\: Use of app.config binding redirects requires full trust.\u0001\=MSB3112\: Two or more assemblies have the same identity '{0}'.\u0001KMSB3180\: COM component '{1}' is defined in both '{3}' and '{4}', {0}\="{2}".\u0001;MSB3181\: Two or more files have the same target path '{0}'.\u0001\u00AE\u0002MSB3133\: The ExcludePermissions property is deprecated. The permission set requested by the application has been set to the permissions defined in Internet or Local Intranet zone. To continue using a custom Permission Set, define your custom permission set in the Security Page of the Project Designer.\u0001\u008C\u0002MSB3127\: The default icon {0} could not be found in the current file references or is not part of the required download group. The default icon file name is case sensitive so the file name referenced in the application manifest must exactly match the icon's file name.\u0001LMSB3119\: File association extensions must start with a period character (.).\u0001TMSB3120\: File association extension '{0}' exceeds the maximum allowed length of {1}.\u0001\u00AF\u0001MSB3121\: The file association element in the application m
+overriddenByCSS=,ATMARK_RULE,ATTRIBUTE_DELIM,ATTRIBUTE_NAME,ATTRIBUTE_OPERATOR,ATTRIBUTE_VALUE,CLASS,COLON,COMBINATOR,COMMENT,CURLY_BRACE,ID,MEDIA,NORMAL,PROPERTY_NAME,PROPERTY_VALUE,PSEUDO,SELECTOR,SEMI_COLON,STRING,UNIVERSAL,URI,

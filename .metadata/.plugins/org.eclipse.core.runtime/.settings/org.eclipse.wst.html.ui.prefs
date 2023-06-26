@@ -1,0 +1,17 @@
+commentBorder=\#C7DD0C | null | null | false | null | null
+commentText=\#C7DD0C | null | null | false | null | null
+declBoder=\#FFFFFF | null | null | null | null | null
+doctypeExternalId=\#FFFFFF | null | null | null | null | null
+doctypeExternalPubref=\#FFFFFF | null | null | null | null | null
+doctypeExtrenalSysref=\#FFFFFF | null | null | null | null | null
+doctypeName=\#FFFFFF | null | null | null | null | null
+eclipse.preferences.version=1
+entityReference=\#8DCBE2 | null | null | null | null | null
+overriddenByCSS=,commentBorder,commentText,declBoder,doctypeExternalId,doctypeExternalPubref,doctypeExtrenalSysref,doctypeName,entityReference,tagAttributeEquals,tagAttributeName,tagAttributeValue,tagBorder,tagName,xmlContent,
+regeneration=of all resources.\u00017MSB3574\: Did not recognize "{0}" as a managed assembly.\u0001+MSB3816\: Loading assembly "{0}" failed. {1}\u0001eMSB3575\: GenerateResource cannot write assemblies, only read from them. Cannot create assembly "{0}".\u00013MSB3554\: Cannot write to the output file "{0}". {1}\u0001JMSB3570\: Cannot write to the Strongly Typed Resource class file "{0}". {1}\u00014MSB3567\: Could not generate property on class "{0}".\u0001[MSB3824\: In order to build with .NET Core, resource inputs must be in .txt or .resx format.\u0001HOutput file "{0}" is possibly corrupt and will be deleted and recreated.\u0001\u007FCould not load type {0} which is used in the .RESX file.  Ensure that the necessary references have been added to your project.\u0001\u00F4\u0002MSB3576\: Creating the CultureInfo failed for assembly "{2}". Note the set of cultures supported is Operating System-dependent, and the Operating System has removed some cultures from time to time (ie, some Serbian cultures are split up in Windows 7).  The culture may be a user-defined custom culture that we can't currently load on this machine.  Exception info\: {0}\: {1}\u0001.Creating 
+tagAttributeEquals=\#D8D8D8 | null | null | null | null | null
+tagAttributeName=\#BED6FF | null | null | null | null | null
+tagAttributeValue=\#FFC600 | null | null | null | null | null
+tagBorder=\#79ABFF | null | null | null | null | null
+tagName=\#BED6FF | null | null | null | null | null
+xmlContent=\#D8D8D8 | null | null | null | null | null

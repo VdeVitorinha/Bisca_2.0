@@ -1,0 +1,7 @@
+sl:call-template></xsl:template>
+<xsl:template match="/asmv1:assembly/asmv2:deployment/asmv2:subscription/asmv2:update/asmv2:expiration"><xsl:call-template name="merge-element"><xsl:with-param name="base-element" select="$base/asmv1:assembly/asmv2:deployment/asmv2:subscription/asmv2:update/asmv2:expiration"/></xsl:call-template></xsl:template>
+<xsl:template match="/asmv1:assembly/asmv2:deployment/asmv2:deploymentProvider"><xsl:call-template name="merge-element"><xsl:with-param name="base-element" select="$base/asmv1:assembly/asmv2:deployment/asmv2:deploymentProvider"/></xsl:call-template></xsl:template>
+<xsl:template match="/asmv1:assembly/asmv2:entryPoint"><xsl:call-template name="merge-element"><xsl:with-param name="base-element" select="$base/asmv1:assembly/asmv2:entryPoint"/></xsl:call-template></xsl:template>
+<xsl:template match="/asmv1:assembly/asmv2:entryPoint/asmv2:assemblyIdentity"><xsl:call-template name="merge-element"><xsl:with-param name="base-element" select="$base/asmv1:assembly/asmv2:entryPoint/asmv2:assemblyIdentity"/></xsl:call-template></xsl:template>
+<xsl:template match="/asmv1:assembly/asmv2:entryPoint/asmv2:commandLine"><xsl:call-template name="merge-element"><xsl:with-param name="base-element" select="$base/asmv1:assembly/asmv2:entryPoint/asmv2:commandLine"/></xsl:call-template></xsl:template>
+<xsl:templ
