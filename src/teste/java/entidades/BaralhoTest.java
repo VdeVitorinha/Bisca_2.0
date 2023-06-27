@@ -30,8 +30,8 @@ public class BaralhoTest {
         assertEquals(cartasAntes.size(), cartasDepois.size());
         for (int i = 0; i < cartasAntes.size(); i++) {
             
-            //Carta cartaAntes = cartasAntes.get(i);
-            Carta cartaAntes = null;
+            Carta cartaAntes = cartasAntes.get(i);
+            //Carta cartaAntes = null;
             Carta cartaDepois = cartasDepois.get(i);
             
             assertEquals(cartaAntes.getNaipe(), cartaDepois.getNaipe());
